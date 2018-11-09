@@ -1,0 +1,19 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "pages": {
+            "736": {
+                "pageid": 736,
+                "ns": 0,
+                "title": "Albert Einstein",
+                "contentmodel": "wikitext",
+                "pagelanguage": "en",
+                "pagelanguagehtmlcode": "en",
+                "pagelanguagedir": "ltr",
+                "touched": "2018-11-08T16:05:40Z",
+                "lastrevid": 867883590,
+                "length": 154719
+            }
+        }
+    }
+}
